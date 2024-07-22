@@ -3,7 +3,7 @@ This repository contains CSV files containing comprehensive NBA data spanning fr
 
 
 > [!IMPORTANT]  
-> This dataset does not include playoff statistics for the 2023-24 season as it has not yet ended. I plan to add the data when I have some free time.
+> In the future, I plan to update this dataset twice a year, after the end of the regular season and after the end of the playoffs.
 
 
 ## Schema of box scores ([play_off_box_scores_2010_2024.csv](https://github.com/NocturneBear/NBA-Data-2010-2024/blob/main/play_off_box_scores_2010_2024.csv), [regular_season_box_scores_2010_2024_part_1.csv](https://github.com/NocturneBear/NBA-Data-2010-2024/blob/main/regular_season_box_scores_2010_2024_part_1.csv), [regular_season_box_scores_2010_2024_part_2.csv](https://github.com/NocturneBear/NBA-Data-2010-2024/blob/main/regular_season_box_scores_2010_2024_part_2.csv), [regular_season_box_scores_2010_2024_part_3.csv](https://github.com/NocturneBear/NBA-Data-2010-2024/blob/main/regular_season_box_scores_2010_2024_part_3.csv))
